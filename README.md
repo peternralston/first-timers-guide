@@ -28,7 +28,7 @@ Anyone, literally **anyone** can contribute to the repository
 
 ### How?
 
-It's quite simple. Just write an article in MarkDown format about a topic you know; the article should be between 100-150 words and 
+It's quite simple. Just write an article in MarkDown format about a topic you know; the article should be between 100-150 words and
 easy to read for a newbie. And then pull a request to start. :tada:
 
 ### Contributing
@@ -42,9 +42,9 @@ To see how a perfect pull request is made, see [this pull request](https://githu
 
 ### Collaboration
 
-First-timers-guide will be thrilled to participate or collaborate with any society or group that promotes open-source anywhere in the 
+First-timers-guide will be thrilled to participate or collaborate with any society or group that promotes open-source anywhere in the
 world. And we would be really happy to help you guys- anything for open-source!
-- We collaborated with [Cluster Innovation Centre](https://www.ducic.ac.in/) for its Month of 
+- We collaborated with [Cluster Innovation Centre](https://www.ducic.ac.in/) for its Month of
 Code program in February 2018
 
 For collaborating drop us a mail at dhruvgirishapte[at]gmail[dot]com or make an issue in this repository.
@@ -156,6 +156,7 @@ You may want to take a look at other articles too:
     - [Wireshark](https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Security/Wireshark.md)
 - Starters
     - [Vanilla js](https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Starters/Vanilla_js.md)
+    - [How to Create a Markdown File](https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Starters/Vanilla_js.md)
 - UI design
     - [Vue js](https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/UI_design/vue_js.md)
 - UX design
